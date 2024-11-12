@@ -44,7 +44,7 @@ export default function About() {
 </Card>
 </section>
 
-<section className="mt-10 sm:mt-10 lg:mt-20 mx-16 sm:mx-12 lg: mb-20 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 sm:gap-8 lg:gap-12">
+<section className="mt-10 sm:mt-10 lg:mt-20 mx-14 sm:mx-12 lg: mb-20 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 sm:gap-8 lg:gap-12">
 <Card className=" w-72 md:w-60 h-44 border border-gray-600 transform scale-100 hover:scale-110 skew-x-6 skew-y-3   shadow-md shadow-black">
   <CardHeader className="items-center text-2xl"><CgWebsite />
     <CardTitle className="text-center text-2xl">Web <br />Developement</CardTitle>

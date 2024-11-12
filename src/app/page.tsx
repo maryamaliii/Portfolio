@@ -9,7 +9,7 @@ export default function Home() {
       <section className="flex flex-row md:flex-row justify-center gap_12 md:gap-48 mt-20 md:mt-40 mx-6 md:mx-12">
         <div className="text-center md:text-left mt-8 md:mt-14">
         <h3 className="font-light text-xl md:text-2xl mb-2 sm:mx-6 md:mx-32 overflow-hidden whitespace-nowrap border-r-2 border-black animate-typewriter">Hello I&apos;s m</h3>
-          <h1 className="text-4xl md:text-5xl font-bold animate-pulse">Maryam Anwar</h1>
+          <h1 className="text-4xl md:text-5xl font-bold animate-pulse">Maryam</h1>
           
           <h2 className="text-2xl md:text-3xl text-gray-700 font-semibold mt-4 sm:mx-2 md:mx-10 overflow-hidden whitespace-nowrap border-r-2 border-black animate-typewriter">Front-end Developer  </h2>
         
