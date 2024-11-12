@@ -22,7 +22,7 @@ export default function About() {
              CSS, and JavaScript, which form the core of her web development <br /> expertis.
               I&apos;S m proficient in building dynamic, responsive websites using cutting-edge 
               frameworks  <br />like Next.jsand React.js. With a passion for creating user-friendly
-               aesthetically pleasing interfaces, <br />I'm constantly learning and evolving
+               aesthetically pleasing interfaces, <br />I&apos;s m constantly learning and evolving
                in the ever-changing world of front-end development. <br />I dedication to coding,
                 combined with her creativity and attention to detail,
              makes me <br /> a valuable asset to any project or team. </p>
