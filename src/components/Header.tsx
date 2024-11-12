@@ -23,7 +23,7 @@ export default function Header() {
             </ul>
             
             <Sheet>
-  <SheetTrigger className="md:hidden">
+  <SheetTrigger className="md:hidden mx-6">
     <Menu/>
     </SheetTrigger>
   

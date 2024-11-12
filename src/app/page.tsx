@@ -16,7 +16,7 @@ export default function Home() {
         </div>
 
         <div>
-        <Image src="/pfp.jpg" alt="Logo" width={200} height={200} className="rounded-full scale-100 hover:scale-110 shadow-lg shadow-black mx-12 md:w-96 md:h-96"/>
+        <Image src="/pfp.jpg" alt="Logo" width={200} height={200} className="rounded-full scale-100 hover:scale-110 shadow-lg shadow-black  md:w-96 md:h-96"/>
         </div>
       </section>
      <div className="mt-20 md:mt-36">
