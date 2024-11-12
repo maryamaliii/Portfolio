@@ -1,8 +1,6 @@
 import {
     Card,
-    CardContent,
     CardDescription,
-    CardFooter,
     CardHeader,
     CardTitle,
   } from "@/components/ui/card"
@@ -19,15 +17,15 @@ export default function About() {
             <h1 className="text-5xl font-bold flex justify-center mb-3  animate-pulse">About Me</h1>
             
             
-            <p className="text-2xl  font-light flex justify-center text-center animate-fade-in mx-4 sm:mx-12 my-16 lg:mx-32"> I'm Maryam Anwar is an aspiring front-end developer with a strong
+            <p className="text-2xl  font-light flex justify-center text-center animate-fade-in mx-4 sm:mx-12 my-16 lg:mx-32"> I&apos;s m Maryam Anwar is an aspiring front-end developer with a strong
             foundation in modern web <br /> technologies.My skilled in HTML
              CSS, and JavaScript, which form the core of her web development <br /> expertis.
-              I'm proficient in building dynamic, responsive websites using cutting-edge 
+              I&apos;S m proficient in building dynamic, responsive websites using cutting-edge 
               frameworks  <br />like Next.jsand React.js. With a passion for creating user-friendly
                aesthetically pleasing interfaces, <br />I'm constantly learning and evolving
                in the ever-changing world of front-end development. <br />I dedication to coding,
                 combined with her creativity and attention to detail,
-             makes me <br /> a valuable asset to any project or team.</p>
+             makes me <br /> a valuable asset to any project or team. </p>
             
 
              <section className="mt-14 mx-4 sm:mx-12 lg:mx-64 flex flex-col sm:flex-row gap-6 sm:gap-10 lg:gap-20">
