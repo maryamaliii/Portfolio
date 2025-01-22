@@ -17,7 +17,7 @@ export default function About() {
             <h1 className="text-5xl font-bold flex justify-center mb-3  animate-pulse">About Me</h1>
             
             
-            <p className="text-2xl  font-light flex justify-center text-center animate-fade-in mx-4 sm:mx-12 my-16 lg:mx-32"> I&apos;m Maryam Anwar is an aspiring front-end developer with a strong
+            <p className="text-2xl font-light flex justify-center text-center animate-fade-in mx-4 sm:mx-12 my-16 lg:mx-32"> I&apos;m Maryam Anwar is an aspiring front-end developer with a strong
             foundation in modern web <br /> technologies.My skilled in HTML
              CSS, and JavaScript, which form the core of her web development <br /> expertis.
               I&apos;m proficient in building dynamic, responsive websites using cutting-edge 
@@ -32,7 +32,7 @@ export default function About() {
              <Card className="w-full sm:w-1/2 lg:w-96 h-48 border border-gray-600 transform scale-100 hover:scale-105 skew-x-6 skew-y-3  shadow-md shadow-black">
   <CardHeader className="items-center text-2xl"><PiUserGearBold />
     <CardTitle className="flex justify-center text-3xl">Experience</CardTitle>
-    <CardDescription className="text-center font-light text-2xl">Html,CSS,Next.js,react.js <br />Front-End Developer</CardDescription>
+    <CardDescription className="text-center font-light text-2xl">Html,CSS,typescript,javascript,<br />Next.js,react.js,sanity.io <br />Front-End Developer</CardDescription>
   </CardHeader>
 </Card>
 
